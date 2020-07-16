@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi 👋 , I'm He Zhang, a Developer 🚀 from China.
 
-<!--
-**zhanghecool/zhanghecool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the place where I opensource stuff and break things :rofl:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Javascript
+- 🌱 I’m currently learning Rust
+- 💬 Ask me about anything related to Javascript
+- 📫 How to reach me: Scan GitHub avatar to follow me on WeChat
+- ⚡ Fun fact: I am a father
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+```text
+TypeScript  4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   36.41 
+JavaScript  2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.77 
+YAML        1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.18 
+Other       57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.41 
+HTML        49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.13
+```
+<!--END_SECTION:waka-->
