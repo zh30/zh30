@@ -19,4 +19,4 @@ HTML        49 mins             █░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<p align="center"><a href="https://zhanghe.cool" alt="Big lvan"><img src="https://cdn.jsdelivr.net/gh/zhanghecool/assets/images/gif/zhanghecool.gif" width="auto" /></a></p>
+<p align="center"><a href="https://zhanghe.cool" alt="Big lvan"><img src="https://cdn.jsdelivr.net/gh/zhanghecool/assets/images/gif/zhanghecool.gif" width="auto" alt="Click to enter my website" /></a></p>
