@@ -11,8 +11,6 @@ This is the place where I opensource stuff and break things :rofl:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week #29 : July 13 - 18
-
 
 ```
 <!--END_SECTION:waka-->
