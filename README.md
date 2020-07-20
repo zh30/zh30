@@ -15,4 +15,4 @@ This is the place where I opensource stuff and break things :rofl:
 ```
 <!--END_SECTION:waka-->
 
-[![Click to enter my website](https://cdn.jsdelivr.net/gh/zhanghecool/assets/images/gif/zhanghecool.gif)](https://zhanghe.cool)
+[![Click to enter my website](https://cdn.jsdelivr.net/gh/zhanghecool/assets/images/gif/zhanghecools.gif)](https://zhanghe.cool)
