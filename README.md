@@ -15,8 +15,4 @@ This is the place where I opensource stuff and break things :rofl:
 ```
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <a href="https://zhanghe.cool" alt="ZhangHeCool">
-    <img src="https://cdn.jsdelivr.net/gh/zhanghecool/assets/images/gif/zhanghecool.gif" width="auto" alt="Click to enter my website" />
-  </a>
-</p>
+[![Click to enter my website](https://cdn.jsdelivr.net/gh/zhanghecool/assets/images/gif/zhanghecool.gif)](https://zhanghe.cool)
