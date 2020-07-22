@@ -11,6 +11,8 @@ This is the place where I opensource stuff and break things :rofl:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
+JavaScript  1 hr 59 mins        ██████████████████░░░░░░░   73.71 % 
+SCSS        42 mins             ██████░░░░░░░░░░░░░░░░░░░   26.29 % 
 JSON        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 <!--END_SECTION:waka-->
