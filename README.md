@@ -13,7 +13,7 @@ This is the place where I opensource stuff and break things :rofl:
 ```text
 JavaScript   12 hrs 38 mins  ███████████████████████░░   92.19 % 
 JSON         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-SCSS         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+SCSS         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 TypeScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
