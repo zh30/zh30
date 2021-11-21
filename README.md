@@ -5,7 +5,6 @@ This is the place where I opensource stuff and break things :rofl:
 - I’m currently working on Javascript
 - I’m currently learning Rust
 - Ask me about anything related to Javascript
-- How to reach me: [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:zhanghe@zhe.cool)
 
 ### 💪 This week I spent my time on 
 <!--START_SECTION:waka-->
