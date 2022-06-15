@@ -10,9 +10,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   10 hrs 28 mins  █████████████████░░░░░░░░   68.34 %
-SCSS         4 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   30.70 %
-Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+JavaScript   13 hrs 35 mins  ███████████████████░░░░░░   76.29 %
+SCSS         4 hrs 1 min     █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
+Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+GraphQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
