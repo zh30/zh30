@@ -2,9 +2,8 @@
 
 This is the place where I opensource stuff and break things :rofl:
 
-- I’m currently working on Javascript
+- I’m currently working on JavaScript and TypeScript
 - I’m currently learning Rust
-- Ask me about anything related to Javascript
 
 ### 💪 This week I spent my time on 
 <!--START_SECTION:waka-->
