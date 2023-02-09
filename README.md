@@ -9,7 +9,9 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 min           █████████████████████████   100.00 %
+YAML         8 mins          ██████████████████▒░░░░░░   73.80 %
+JavaScript   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
+JSON         1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
 ```
 
 <!--END_SECTION:waka-->
