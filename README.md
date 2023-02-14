@@ -9,9 +9,9 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 29 mins    ███████████████░░░░░░░░░░   60.54 %
-Markdown     19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-Other        13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+TypeScript   3 hrs 6 mins    ███████████████████░░░░░░   76.27 %
+Markdown     19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Other        13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
 ```
 
 <!--END_SECTION:waka-->
