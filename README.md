@@ -9,11 +9,9 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   8 hrs 56 mins   ██████████████████▒░░░░░░   73.93 %
-JSON         46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Astro        46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-JavaScript   45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Other        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+TypeScript   11 hrs 9 mins   ██████████████████████▓░░   90.25 %
+JSON         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
