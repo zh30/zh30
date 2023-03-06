@@ -9,8 +9,8 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   11 hrs 10 mins  ███████████████████████░░   91.54 %
-Other        25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+TypeScript   13 hrs 34 mins  ███████████████████████▒░   92.92 %
+Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->
