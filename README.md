@@ -9,8 +9,8 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   6 hrs 27 mins   ███████████▓░░░░░░░░░░░░░   46.87 %
-Other        4 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   29.40 %
+JavaScript   6 hrs 34 mins   █████████░░░░░░░░░░░░░░░░   35.98 %
+Other        4 hrs 5 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.34 %
 ```
 
 <!--END_SECTION:waka-->
