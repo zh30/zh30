@@ -9,11 +9,8 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-TOML         12 mins         ████████░░░░░░░░░░░░░░░░░   31.80 %
-JSON         11 mins         ███████▒░░░░░░░░░░░░░░░░░   29.31 %
-TSConfig     8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
-TypeScript   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+JavaScript   2 hrs 33 mins   ████████▒░░░░░░░░░░░░░░░░   33.67 %
+Other        1 hr 50 mins    ██████░░░░░░░░░░░░░░░░░░░   24.24 %
 ```
 
 <!--END_SECTION:waka-->
