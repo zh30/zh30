@@ -1,3 +1,5 @@
+![Click to enter my website](https://github.com/zhanghecool/zhanghecool/assets/7930156/9a23f1b1-0360-42fa-a5af-91f48dc9cf5f)
+
 ### 👋 Hi, I'm He Zhang, a Developer 🚀 from China.
 
 This is the place where I opensource stuff and break things :rofl:
@@ -19,6 +21,4 @@ JavaScript   4 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### 🌈 My blog 
-
-[![Click to enter my website](https://github.com/zhanghecool/zhanghecool/assets/7930156/9a23f1b1-0360-42fa-a5af-91f48dc9cf5f)](https://zhanghe.dev)
+### 🌈 [My blog](https://zhanghe.dev) 
