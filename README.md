@@ -5,7 +5,8 @@ This is the place where I opensource stuff and break things :rofl:
 - I’m currently working on JavaScript and TypeScript
 - I’m currently learning Rust
 
-### 💪 This week I spent my time on 
+### 💪 This week I spent my time on
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -18,8 +19,6 @@ JavaScript   4 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### 👍 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghecool&layout=compact)](https://zhanghe.cool)
-
 ### 🌈 My blog 
-[![Click to enter my website](https://cdn.jsdelivr.net/gh/zhanghecool/assets/images/gif/zhanghecools.gif)](https://zhanghe.cool)
+
+[![Click to enter my website](https://github.com/zhanghecool/zhanghecool/assets/7930156/9a23f1b1-0360-42fa-a5af-91f48dc9cf5f)](https://zhanghe.dev)
