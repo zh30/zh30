@@ -21,4 +21,4 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### 🌈 [My blog](https://zhanghe.dev) 
+### 🌈 [My blog (zhanghe.dev)](https://zhanghe.dev) 
