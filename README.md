@@ -1,4 +1,4 @@
-![Click to enter my website](https://github.com/zhanghecool/zhanghecool/assets/7930156/9a23f1b1-0360-42fa-a5af-91f48dc9cf5f)
+![Click to enter my website](https://github.com/zh30/zh30/assets/7930156/296bb9cd-4f46-46cd-bafa-863948241503)
 
 ### 👋 Hi, I'm He Zhang, a Developer 🚀 from China.
 
@@ -21,4 +21,4 @@ JSON           20 mins         ▒░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### 🌈 [My blog (zhanghe.dev)](https://zhanghe.dev) 
+### 🌈 [![Click to enter my website](https://github.com/zh30/zh30/assets/7930156/296bb9cd-4f46-46cd-bafa-863948241503)](https://zhanghe.dev) 
