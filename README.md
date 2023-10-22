@@ -12,10 +12,10 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   21 hrs 25 mins  ████████████████████████▓   98.25 %
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-CSS          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-TOML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript   25 hrs          ████████████████████████▓   98.50 %
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+CSS          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+TOML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
