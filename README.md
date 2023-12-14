@@ -12,11 +12,11 @@ This is the place where I open source stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 53 mins   ████████████░░░░░░░░░░░░░   48.04 %
-JSON         5 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   36.11 %
-HTML         44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-TSConfig     44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-JavaScript   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+TypeScript   7 hrs 25 mins   ████████████▓░░░░░░░░░░░░   50.11 %
+JSON         5 hrs 6 mins    ████████▓░░░░░░░░░░░░░░░░   34.51 %
+HTML         44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+TSConfig     44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+JavaScript   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 ```
 
 <!--END_SECTION:waka-->
