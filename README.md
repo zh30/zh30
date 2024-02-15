@@ -12,9 +12,7 @@ This is the place where I open source stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 57 mins    ████████████████████▓░░░░   83.15 %
-Vue.js       19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
-JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+TypeScript   51 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
