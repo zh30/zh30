@@ -1,6 +1,6 @@
-[![Click to enter my website](https://github.com/zh30/zh30/assets/7930156/44b2b06d-750e-442d-a707-701903917b3b)](https://zhanghe.dev) 
+[![Click to enter my website](https://github.com/zh30/zh30/assets/7930156/bb82b0df-3fb8-4136-8522-734cd2b27f6a)](https://blog.zhanghe.dev) 
 
-### 👋 Hi, I'm Henry, a Developer 🚀.
+### 👋 Hi, I'm Henry, a Web Developer 🚀.
 
 This is the place where I open source stuff and break things :rofl:
 
