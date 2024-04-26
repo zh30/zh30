@@ -12,11 +12,11 @@ This is the place where I open source stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       12 hrs 22 mins  ███████████████████▓░░░░░   78.74 %
-JavaScript   2 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
-TypeScript   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Ruby         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Vue.js       13 hrs 7 mins   ██████████████████████▒░░   89.51 %
+JavaScript   44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Ruby         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+TypeScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
