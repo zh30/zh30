@@ -5,7 +5,14 @@
 This is the place where I open source stuff and break things :rofl:
 
 - I’m currently working on JavaScript and TypeScript
-- I'm learning about Web3 
+- I'm learning about Web3
+
+### Projects I developed
+
+Here are some fun little projects I've developed
+
+- [MangoFlow](https://mangoflow.chat/) - Smart Copilot for Internet Surfing, smart assistant for browsing the web
+- [My personal website](https://zhanghe.dev) - zhanghe.dev
 
 ### 💪 This week I spent my time on
 
