@@ -19,11 +19,11 @@ Here are some fun little projects I've developed
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   14 hrs 8 mins   █████████████████▓░░░░░░░   70.42 %
-Vue.js       4 hrs 9 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
-Bash         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-JSON         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-HTML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+TypeScript   17 hrs 16 mins  ███████████████████▓░░░░░   79.26 %
+Vue.js       2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+JSON         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Bash         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
