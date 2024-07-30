@@ -19,11 +19,11 @@ Here are some fun little projects I've developed
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       9 hrs 16 mins   ████████████████▒░░░░░░░░   65.92 %
-Rust         1 hr 39 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
-TypeScript   1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-Markdown     55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-JavaScript   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Vue.js       8 hrs 32 mins   ███████████████▒░░░░░░░░░   60.67 %
+Rust         1 hr 39 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
+TypeScript   1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+JavaScript   1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+Markdown     1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
 ```
 
 <!--END_SECTION:waka-->
