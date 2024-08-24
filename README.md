@@ -19,11 +19,11 @@ Here are some fun little projects I've developed
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 1 min     ██████████▓░░░░░░░░░░░░░░   42.72 %
-Markdown     1 hr 10 mins    ██████░░░░░░░░░░░░░░░░░░░   24.60 %
-JSON         27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-Rust         23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-Other        12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+TypeScript   4 hrs 45 mins   ████████████████░░░░░░░░░   63.54 %
+Markdown     1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
+JSON         30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+Rust         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 ```
 
 <!--END_SECTION:waka-->
