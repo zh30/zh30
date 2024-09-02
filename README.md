@@ -12,18 +12,4 @@ This is the place where I open source stuff and break things :rofl:
 Here are some fun little projects I've developed
 
 - [MangoFlow](https://mangoflow.chat/) - 🥭 Smart Copilot for Internet Surfing, smart assistant for browsing the web
-- [My personal website](https://zhanghe.dev) - 🕸️ zhanghe.dev
-
-### 💪 This week I spent my time on
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   7 hrs 6 mins    █████████████▓░░░░░░░░░░░   55.28 %
-JavaScript   2 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
-JSON         1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-Vue.js       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Rust         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-```
-
-<!--END_SECTION:waka-->
+- [My website](https://zhanghe.dev) - 🕸️ zhanghe.dev
