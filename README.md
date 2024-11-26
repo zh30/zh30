@@ -11,5 +11,6 @@ This is the place where I open source stuff and break things :rofl:
 
 Here are some fun little projects I've developed
 
+- [Alchemy](https://alchemy.host) - ✍️ Make creation easier and inspiration freer.
 - [MangoFlow](https://mangoflow.chat/) - 🥭 Smart Copilot for Internet Surfing, smart assistant for browsing the web
 - [My website](https://zhanghe.dev) - 🕸️ zhanghe.dev
