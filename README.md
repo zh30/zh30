@@ -13,5 +13,4 @@ Here are some fun little projects I've developed
 
 - [Alchemy](https://alchemy.host) - ✍️ Make creation easier and inspiration freer.
 - [MangoFlow](https://mangoflow.chat/) - 🥭 Smart Copilot for Internet Surfing, smart assistant for browsing the web
-- [My blog](https://zhanghe.dev) - 🕸️ zhanghe.dev
 - [My day-to-day](https://zhanghe.date) - zhanghe.date
