@@ -1,16 +1,23 @@
-<!-- [![Click to enter my website](https://github.com/zh30/zh30/assets/7930156/bb82b0df-3fb8-4136-8522-734cd2b27f6a)](https://blog.zhanghe.dev) -->
+# Henry Zhang | Indie Hacker 🚀
 
-### 👋 Hi, I'm Henry, a Web Developer 🚀
+👋 Hello there! I'm Henry, an **Indie Hacker** passionate about building useful and innovative web applications. I enjoy exploring new ideas, bringing them to life through code, and sharing my journey in the open.
 
-This is the place where I open source stuff and break things :rofl:
+### 🌱 Currently Focusing On:
 
-- I’m currently working on JavaScript and TypeScript 🥢
-- I'm learning about Web3 ⛓️
+* **Core Technologies:** Deepening my expertise in **JavaScript** and **TypeScript**, building robust and scalable applications.
+* **Learning & Exploring:** Diving into the world of **Web3** ⛓️ and its potential applications.
+* **Building:** Actively developing and maintaining several projects (see below!).
 
-### 🔨 Projects I developed ⛵
+### 🛠️ Featured Projects:
 
-Here are some fun little projects I've developed
+Here are a few projects I've brought to life:
 
 - [Alchemy](https://alchemy.host) - ✍️ Make creation easier and inspiration freer.
-- [MangoFlow](https://mangoflow.chat/) - 🥭 Smart Copilot for Internet Surfing, smart assistant for browsing the web
-- [My day-to-day](https://zhanghe.date) - zhanghe.date
+- [MangoFlow](https://mangoflow.chat/) - 🥭 Smart Copilot for Internet Surfing, smart assistant for browsing the web.
+- [Suno Lyric Downloader](https://zhanghe.dev/products/suno-lyric-downloader) - ✍️ Easily download lyrics from Suno.com in SRT and LRC formats with just one click using the Suno Lyric Downloader Chrome extension. Get accurate lyrics instantly. Free download!
+
+### 📫 Let's Connect:
+
+* 🌐 Visit my **[Personal Blog](https://zhanghe.dev/posts)** for more thoughts and project updates.
+* 🐦 Follow me on **[X](https://x.com/zhanghedev)**
+* 💼 Connect on **[LinkedIn](https://linkedin.com/in/zhanghe)**
