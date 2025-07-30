@@ -1,6 +1,6 @@
-# Henry Zhang - Indie Hacker & Product Maker 🚀
+# Henry Zhang - Web Developer & Content Creator 🚀
 
-Hi, I'm Henry! As an **Indie Hacker**, I'm passionate about turning innovative ideas into useful web applications. I enjoy the process of building in public and sharing my journey along the way.
+Hi, I'm Henry! As an **Web Developer**, I'm passionate about turning innovative ideas into useful web applications. I enjoy the process of building in public and sharing my journey along the way.
 
 ### 🌱 Tech & Focus
 
