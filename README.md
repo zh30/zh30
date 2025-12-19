@@ -1,7 +1,5 @@
 <div align="center">
 
-![Cyberpunk Banner](./github_profile_banner.png)
-
 # ⚡️ Henry Zhang
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Web+Developer+%26+Content+Creator;Passion+turned+into+Code;Building+in+Public;Exploring+the+Web3+Frontier)](https://git.io/typing-svg)
