@@ -1,49 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=Henry%20Zhang&fontSize=70&fontColor=F0F6FC&fontAlign=50&fontAlignY=45&desc=Full%20Stack%20Craftsman%20%7C%20Building%20Digital%20Products&descSize=20&descAlign=50&descAlignY=65" width="100%" />
 
-  <br/>
+# Henry Zhang / 张赫
 
-  ### [zhanghe.dev](https://zhanghe.dev) • [X (Twitter)](https://x.com/zh30) • [LinkedIn](https://linkedin.com/in/zhanghe) • [Medium](https://medium.zhanghe.dev)
+**AI tool builder · independent developer**
 
-  ---
+做真正派得上用场的 AI 工具，贴着浏览器、开发者和创作者的真实工作流发布小而清楚的产品。
 
-  *"Turning complex problems into elegant, minimalist software."*
+[zhanghe.dev](https://zhanghe.dev) · [Products](https://zhanghe.dev/zh-CN/products) · [Blog](https://zhanghe.dev/zh-CN/posts) · [X](https://twitter.com/zhanghedev) · [LinkedIn](https://www.linkedin.com/in/zhanghe/) · [Email](mailto:hello@zhanghe.dev)
 
 </div>
 
-<br/>
+```txt
+╔════════════════════════════════════╗
+║   HENRY ZHANG | AI TOOL BUILDER    ║
+╚════════════════════════════════════╝
 
-### ✦ The Craft
+$ systemctl status zhanghe.dev
+Status: ONLINE
+Focus: practical AI tools for real workflows
+Stack: React + TypeScript + Cloudflare Workers + D1/R2
+Ship: browser AI, creator tools, developer utilities
+```
 
-I am a **Web Developer** dedicated to building high-performance applications with meticulous attention to detail. My work focuses on **simplicity**, **user experience**, and **scalability**. I believe that great software is as much about what you leave out as what you put in.
+## What I Build
 
----
+I turn narrow, repeated workflow friction into polished web products: AI translation that stays in context, local media utilities that avoid uploads, developer tools that clean up the boring parts, and edge-first React apps that are fast enough to feel native.
 
-### ✦ Core Stack
+- **AI-assisted workflow design** - AI appears only when it removes a real step.
+- **Privacy-conscious browser tooling** - translation, reading, and browsing tools that stay close to the page.
+- **Client-side media processing** - FFmpeg.wasm and local-first flows for creator work.
+- **Edge-first full-stack React** - Cloudflare Workers, D1, R2, and React Router for small, sharp apps.
+- **Readable technical writing** - notes about shipping products, web development, AI tooling, and product decisions.
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,solidity,wasm&theme=dark" />
-  </a>
-</p>
+## Product Lab
 
----
+| Tool                                                                              | Workflow friction                                           | Built around                            |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------- |
+| [Native Translate](https://zhanghe.dev/zh-CN/products/native-translate)           | Translate web content without breaking reading context      | Browser AI, privacy-first UX            |
+| [Translate](https://zhanghe.dev/zh-CN/products/translate)                         | Translate text privately when hosted model delivery matters | On-device AI, Cloudflare model delivery |
+| [MangoFlow](https://zhanghe.dev/zh-CN/products/mangoflow)                         | Keep AI assistance beside the page being researched         | Browser sidebar, web productivity       |
+| [Git Commit Analyzer](https://zhanghe.dev/zh-CN/products/git-commit-analyzer)     | Turn messy diffs into clearer commit messages               | Local Ollama, developer workflow        |
+| [Xiaomaolv](https://zhanghe.dev/zh-CN/products/xiaomaolv)                         | Route AI traffic with less overhead                         | Rust, AI gateway experiments            |
+| [Video Clipper](https://zhanghe.dev/zh-CN/products/video-clipper)                 | Cut long videos locally without uploading source files      | FFmpeg.wasm, creator workflow           |
+| [Cover Moment](https://zhanghe.dev/zh-CN/products/cover-moment)                   | Make stronger video covers without heavy software           | Browser design utility                  |
+| [Suno Lyric Downloader](https://zhanghe.dev/zh-CN/products/suno-lyric-downloader) | Export synchronized Suno lyrics into usable files           | LRC, SRT, creator export                |
+| [Alchemy](https://alchemy.host)                                                   | Make creative iteration easier to start and continue        | Creation system, idea-to-output flow    |
 
-### ✦ Selected Works
+## Stack
 
-- **[Native Translate](https://zhanghe.dev/products/native-translate)** — Redefining private, AI-native translation in the browser.
-- **[Alchemy](https://alchemy.host)** — A minimalist workspace designed for frictionless creation and focus.
-- **[Suno Lyric Downloader](https://zhanghe.dev/products/suno-lyric-downloader)** — A precise utility for creators and music enthusiasts.
-- **[MangoFlow](https://zhanghe.dev/products/mangoflow)** — Intelligent assistance for modern internet exploration.
+```ts
+const henry = {
+  position: 'AI Tool Builder',
+  worksOn: ['browser AI', 'creator tools', 'developer utilities'],
+  shipsWith: ['React', 'TypeScript', 'Cloudflare Workers', 'D1', 'R2'],
+  caresAbout: ['privacy', 'performance', 'clear product intent'],
+  defaultMode: 'ship small, useful tools',
+} as const;
+```
 
----
-
-### ✦ Performance & Impact
+## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zh30&show_icons=true&theme=transparent&hide_border=true&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" alt="Henry's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zh30&theme=github_dark" alt="Henry Zhang GitHub profile summary" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zh30&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
+```txt
+hello@zhanghe.dev:~$ connect --work
+[OK] portfolio loaded · tools shipped · notes in progress
+```
