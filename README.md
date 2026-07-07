@@ -1,64 +1,82 @@
-<div align="center">
+<h1 align="center">Henry Zhang</h1>
 
-# Henry Zhang / 张赫
+<p align="center">
+  <strong>AI tool builder | independent developer | edge-first product engineer</strong>
+</p>
 
-**AI tool builder · independent developer**
+<p align="center">
+  I design and ship practical AI tools for real workflows: browser extensions, creator utilities,
+  developer products, and Cloudflare-native web applications.
+</p>
 
-做真正派得上用场的 AI 工具，贴着浏览器、开发者和创作者的真实工作流发布小而清楚的产品。
-
-[zhanghe.dev](https://zhanghe.dev) · [Products](https://zhanghe.dev/zh-CN/products) · [Blog](https://zhanghe.dev/zh-CN/posts) · [X](https://twitter.com/zhanghedev) · [LinkedIn](https://www.linkedin.com/in/zhanghe/) · [Email](mailto:hello@zhanghe.dev)
-
-</div>
+<p align="center">
+  <a href="https://zhanghe.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-zhanghe.dev-0f172a?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+  <a href="https://zhanghe.dev/products"><img alt="Products" src="https://img.shields.io/badge/Products-Product%20Lab-111827?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://zhanghe.dev/posts"><img alt="Blog" src="https://img.shields.io/badge/Blog-Build%20Notes-1f2937?style=for-the-badge&logo=markdown&logoColor=white" /></a>
+  <a href="https://twitter.com/zhanghedev"><img alt="X" src="https://img.shields.io/badge/X-@zhanghedev-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zhanghe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Henry%20Zhang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ```txt
-╔════════════════════════════════════╗
-║   HENRY ZHANG | AI TOOL BUILDER    ║
-╚════════════════════════════════════╝
++------------------------------------------------+
+|        HENRY ZHANG | AI TOOL BUILDER           |
++------------------------------------------------+
 
 $ systemctl status zhanghe.dev
 Status: ONLINE
-Focus: practical AI tools for real workflows
+Mode: independent product lab
+Focus: browser AI, creator tools, developer utilities
 Stack: React + TypeScript + Cloudflare Workers + D1/R2
-Ship: browser AI, creator tools, developer utilities
+Rule: AI earns its place by removing a real workflow step
 ```
 
 ## What I Build
 
-I turn narrow, repeated workflow friction into polished web products: AI translation that stays in context, local media utilities that avoid uploads, developer tools that clean up the boring parts, and edge-first React apps that are fast enough to feel native.
+I turn narrow, repeated workflow friction into small, polished products. The work sits close to the page, editor, media file, or repository people are already using.
 
-- **AI-assisted workflow design** - AI appears only when it removes a real step.
-- **Privacy-conscious browser tooling** - translation, reading, and browsing tools that stay close to the page.
-- **Client-side media processing** - FFmpeg.wasm and local-first flows for creator work.
-- **Edge-first full-stack React** - Cloudflare Workers, D1, R2, and React Router for small, sharp apps.
-- **Readable technical writing** - notes about shipping products, web development, AI tooling, and product decisions.
-
-## Product Lab
-
-| Tool                                                                              | Workflow friction                                           | Built around                            |
-| --------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------- |
-| [Native Translate](https://zhanghe.dev/zh-CN/products/native-translate)           | Translate web content without breaking reading context      | Browser AI, privacy-first UX            |
-| [Translate](https://zhanghe.dev/zh-CN/products/translate)                         | Translate text privately when hosted model delivery matters | On-device AI, Cloudflare model delivery |
-| [MangoFlow](https://zhanghe.dev/zh-CN/products/mangoflow)                         | Keep AI assistance beside the page being researched         | Browser sidebar, web productivity       |
-| [Git Commit Analyzer](https://zhanghe.dev/zh-CN/products/git-commit-analyzer)     | Turn messy diffs into clearer commit messages               | Local Ollama, developer workflow        |
-| [Xiaomaolv](https://zhanghe.dev/zh-CN/products/xiaomaolv)                         | Route AI traffic with less overhead                         | Rust, AI gateway experiments            |
-| [Video Clipper](https://zhanghe.dev/zh-CN/products/video-clipper)                 | Cut long videos locally without uploading source files      | FFmpeg.wasm, creator workflow           |
-| [Cover Moment](https://zhanghe.dev/zh-CN/products/cover-moment)                   | Make stronger video covers without heavy software           | Browser design utility                  |
-| [Suno Lyric Downloader](https://zhanghe.dev/zh-CN/products/suno-lyric-downloader) | Export synchronized Suno lyrics into usable files           | LRC, SRT, creator export                |
-| [Alchemy](https://alchemy.host)                                                   | Make creative iteration easier to start and continue        | Creation system, idea-to-output flow    |
-
-## Stack
+| Lane | What I ship | Product instinct |
+| --- | --- | --- |
+| Browser AI | Translation, reading, and page-side assistance | Keep context intact and respect privacy boundaries |
+| Creator tools | Local video, cover, and lyric workflows | Avoid uploads when browser-side processing is enough |
+| Developer utilities | Git, commit, and AI workflow helpers | Make routine engineering work cleaner and faster |
+| Edge apps | React and TypeScript products on Cloudflare | Keep infra boring, fast, and understandable |
 
 ```ts
 const henry = {
-  position: 'AI Tool Builder',
-  worksOn: ['browser AI', 'creator tools', 'developer utilities'],
-  shipsWith: ['React', 'TypeScript', 'Cloudflare Workers', 'D1', 'R2'],
-  caresAbout: ['privacy', 'performance', 'clear product intent'],
-  defaultMode: 'ship small, useful tools',
+  role: "AI Tool Builder",
+  base: "zhanghe.dev",
+  builds: ["browser AI", "creator workflows", "developer utilities"],
+  shipsWith: ["React", "TypeScript", "Cloudflare Workers", "D1", "R2"],
+  caresAbout: ["privacy", "performance", "clear product intent"],
+  defaultMode: "ship small tools that solve real workflow problems",
 } as const;
 ```
 
-## GitHub
+## Product Lab
+
+The full product index lives at [zhanghe.dev/products](https://zhanghe.dev/products). These are the public tools and experiments I use to explore practical AI, local-first processing, and edge-native product shipping.
+
+| Product | Job to be done | Built around |
+| --- | --- | --- |
+| [Native Translate](https://zhanghe.dev/products/native-translate) | Translate web content without breaking reading context | Chrome built-in AI, local-first translation, open source |
+| [Translate](https://zhanghe.dev/products/translate) | Run browser-first translation with model delivery I control | On-device inference, Web Workers, Cloudflare R2 |
+| [MangoFlow](https://zhanghe.dev/products/mangoflow) | Keep AI assistance beside the page being researched | Browser sidebar, multi-model chat, web productivity |
+| [Git Commit Analyzer](https://zhanghe.dev/products/git-commit-analyzer) | Turn messy staged diffs into clearer commit messages | Local model inference, Git workflow, privacy by default |
+| [Xiaomaolv](https://zhanghe.dev/products/xiaomaolv) | Route AI traffic through a practical gateway foundation | Rust, streaming replies, provider/channel abstraction |
+| [Video Clipper](https://zhanghe.dev/products/video-clipper) | Cut and convert videos locally without uploading source files | FFmpeg.wasm, browser media processing |
+| [Cover Moment](https://zhanghe.dev/products/cover-moment) | Create stronger video covers without heavy design software | Browser canvas, creator workflow, fast export |
+| [Suno Lyric Downloader](https://zhanghe.dev/products/suno-lyric-downloader) | Export synchronized Suno lyrics into useful files | Chrome extension, LRC/SRT, local file generation |
+| [Alchemy](https://alchemy.host) | Make creative iteration easier to start and continue | Creation system, idea-to-output workflow |
+
+## Operating Principles
+
+- **AI with a reason**: I use AI where it removes a real step, not where it decorates the interface.
+- **Privacy by default**: Local inference, browser storage, and no-upload flows are preferred when the domain allows it.
+- **Edge-native shipping**: Cloudflare Workers, D1, R2, and CDN behavior are part of the product design, not an afterthought.
+- **Small surface area**: A one-person product should be easy to understand, deploy, debug, and evolve.
+- **Writing as product infrastructure**: I publish build notes, product decisions, and technical field logs at [zhanghe.dev/posts](https://zhanghe.dev/posts).
+
+## GitHub Signal
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zh30&theme=github_dark" alt="Henry Zhang GitHub profile summary" />
@@ -66,5 +84,19 @@ const henry = {
 
 ```txt
 hello@zhanghe.dev:~$ connect --work
-[OK] portfolio loaded · tools shipped · notes in progress
+[OK] portfolio loaded | product lab online | notes in progress
 ```
+
+<p align="center">
+  <a href="mailto:hello@zhanghe.dev">Email</a>
+  |
+  <a href="https://zhanghe.dev">Website</a>
+  |
+  <a href="https://zhanghe.dev/products">Products</a>
+  |
+  <a href="https://zhanghe.dev/posts">Blog</a>
+  |
+  <a href="https://twitter.com/zhanghedev">X</a>
+  |
+  <a href="https://www.linkedin.com/in/zhanghe/">LinkedIn</a>
+</p>
