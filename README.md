@@ -1,12 +1,12 @@
 <h1 align="center">Henry Zhang</h1>
 
 <p align="center">
-  <strong>AI tool builder | independent developer | edge-first product engineer</strong>
+  <strong>AI tool builder · independent developer · edge-first engineer</strong>
 </p>
 
 <p align="center">
-  I design and ship practical AI tools for real workflows: browser extensions, creator utilities,
-  developer products, and Cloudflare-native web applications.
+  I ship practical AI tools for real workflows — browser, creator, and developer surfaces —
+  on Cloudflare-native stacks.
 </p>
 
 <p align="center">
@@ -19,49 +19,51 @@
 
 ## What I Build
 
-I turn narrow, repeated workflow friction into small, polished products. The work sits close to the page, editor, media file, or repository people are already using.
+I turn narrow, repeated workflow friction into small, polished products — close to the page, editor, media file, or repository people already use.
 
-| Lane                | What I ship                                    | Product instinct                                     |
+| Lane                | What I ship                                    | Instinct                                             |
 | ------------------- | ---------------------------------------------- | ---------------------------------------------------- |
-| Browser AI          | Translation, reading, and page-side assistance | Keep context intact and respect privacy boundaries   |
-| Creator tools       | Local video, cover, and lyric workflows        | Avoid uploads when browser-side processing is enough |
-| Developer utilities | Git, commit, and AI workflow helpers           | Make routine engineering work cleaner and faster     |
-| Edge apps           | React and TypeScript products on Cloudflare    | Keep infra boring, fast, and understandable          |
+| Browser AI          | Translation, reading, page-side assistance     | Keep context intact; privacy first                   |
+| Creator tools       | Local video, cover, and lyric workflows        | Prefer browser-side processing over uploads          |
+| Developer utilities | Git, commit, and AI workflow helpers           | Make routine engineering cleaner and faster          |
+| Edge apps           | React / TypeScript on Cloudflare               | Keep infra boring, fast, and understandable          |
 
 ```ts
 const henry = {
   role: 'AI Tool Builder',
   base: 'zhanghe.dev',
-  builds: ['browser AI', 'creator workflows', 'developer utilities'],
-  shipsWith: ['React', 'TypeScript', 'Cloudflare Workers', 'D1', 'R2'],
-  caresAbout: ['privacy', 'performance', 'clear product intent'],
+  builds: ['browser AI', 'creator tools', 'dev utilities', 'edge apps'],
+  shipsWith: ['React', 'TypeScript', 'Rust', 'Cloudflare'],
+  openSource: ['beejs', 'zstack'],
+  caresAbout: ['privacy', 'performance', 'solo leverage'],
   defaultMode: 'ship small tools that solve real workflow problems',
 } as const;
 ```
 
+## Open Source
+
+**[Beejs](https://github.com/zh30/beejs)** — fail-closed JS/TS runtime (Rust + V8). Fast cold starts, native TypeScript, permission sandbox for scripting, agents, and edge-like workloads. → [bee.zhanghe.dev](https://bee.zhanghe.dev)
+
+**[zstack](https://github.com/zh30/zstack)** — agent skills for indie builders: market signal → real users → landing smoke → PRD → SEO. Teaches coding agents product judgment, not only code. Works with Claude Code, Codex, and Grok.
+
 ## Product Lab
 
-The full product index lives at [zhanghe.dev/products](https://zhanghe.dev/products). These are the public tools and experiments I use to explore practical AI, local-first processing, and edge-native product shipping.
+Highlights below. Full index: [zhanghe.dev/products](https://zhanghe.dev/products).
 
-| Product                                                                     | Job to be done                                                | Built around                                             |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------- |
-| [Native Translate](https://zhanghe.dev/products/native-translate)           | Translate web content without breaking reading context        | Chrome built-in AI, local-first translation, open source |
-| [Translate](https://zhanghe.dev/products/translate)                         | Run browser-first translation with model delivery I control   | On-device inference, Web Workers, Cloudflare R2          |
-| [MangoFlow](https://zhanghe.dev/products/mangoflow)                         | Keep AI assistance beside the page being researched           | Browser sidebar, multi-model chat, web productivity      |
-| [Git Commit Analyzer](https://zhanghe.dev/products/git-commit-analyzer)     | Turn messy staged diffs into clearer commit messages          | Local model inference, Git workflow, privacy by default  |
-| [Xiaomaolv](https://zhanghe.dev/products/xiaomaolv)                         | Route AI traffic through a practical gateway foundation       | Rust, streaming replies, provider/channel abstraction    |
-| [Video Clipper](https://zhanghe.dev/products/video-clipper)                 | Cut and convert videos locally without uploading source files | FFmpeg.wasm, browser media processing                    |
-| [Cover Moment](https://zhanghe.dev/products/cover-moment)                   | Create stronger video covers without heavy design software    | Browser canvas, creator workflow, fast export            |
-| [Suno Lyric Downloader](https://zhanghe.dev/products/suno-lyric-downloader) | Export synchronized Suno lyrics into useful files             | Chrome extension, LRC/SRT, local file generation         |
-| [Alchemy](https://alchemy.host)                                             | Make creative iteration easier to start and continue          | Creation system, idea-to-output workflow                 |
+| Product                                                                 | Job to be done                                         | Built around                                  |
+| ----------------------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------- |
+| [Native Translate](https://zhanghe.dev/products/native-translate)       | Translate the web without breaking reading context     | Chrome built-in AI, local-first, open source  |
+| [MangoFlow](https://zhanghe.dev/products/mangoflow)                     | Keep AI beside the page you are researching            | Browser sidebar, multi-model chat             |
+| [Git Commit Analyzer](https://zhanghe.dev/products/git-commit-analyzer) | Turn messy staged diffs into clearer commit messages   | Local inference, Git workflow, privacy        |
+| [Video Clipper](https://zhanghe.dev/products/video-clipper)             | Cut and convert video locally — no source uploads      | FFmpeg.wasm, browser media processing         |
+| [Xiaomaolv](https://zhanghe.dev/products/xiaomaolv)                     | Route AI traffic through a practical gateway           | Rust, streaming, provider abstraction         |
 
 ## Operating Principles
 
-- **AI with a reason**: I use AI where it removes a real step, not where it decorates the interface.
-- **Privacy by default**: Local inference, browser storage, and no-upload flows are preferred when the domain allows it.
-- **Edge-native shipping**: Cloudflare Workers, D1, R2, and CDN behavior are part of the product design, not an afterthought.
-- **Small surface area**: A one-person product should be easy to understand, deploy, debug, and evolve.
-- **Writing as product infrastructure**: I publish build notes, product decisions, and technical field logs at [zhanghe.dev/posts](https://zhanghe.dev/posts).
+- **AI with a reason** — remove a real step; do not decorate the UI.
+- **Privacy by default** — local inference and no-upload flows when the domain allows it.
+- **Edge-native, small surface** — Cloudflare-first; a one-person product should stay easy to ship and debug.
+- **Judgment before code; foundations when the stack is missing** — validate demand first; build the layer yourself when tools leave a real gap.
 
 ## GitHub Signal
 
@@ -76,14 +78,14 @@ hello@zhanghe.dev:~$ connect --work
 
 <p align="center">
   <a href="mailto:hello@zhanghe.dev">Email</a>
-  |
+  ·
   <a href="https://zhanghe.dev">Website</a>
-  |
+  ·
   <a href="https://zhanghe.dev/products">Products</a>
-  |
+  ·
   <a href="https://zhanghe.dev/posts">Blog</a>
-  |
+  ·
   <a href="https://twitter.com/zhanghedev">X</a>
-  |
+  ·
   <a href="https://www.linkedin.com/in/zhanghe/">LinkedIn</a>
 </p>
