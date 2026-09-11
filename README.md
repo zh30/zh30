@@ -13,7 +13,7 @@
   <a href="https://zhanghe.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-zhanghe.dev-0f172a?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
   <a href="https://zhanghe.dev/products"><img alt="Products" src="https://img.shields.io/badge/Products-Product%20Lab-111827?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
   <a href="https://zhanghe.dev/posts"><img alt="Blog" src="https://img.shields.io/badge/Blog-Build%20Notes-1f2937?style=for-the-badge&logo=markdown&logoColor=white" /></a>
-  <a href="https://twitter.com/zhanghedev"><img alt="X" src="https://img.shields.io/badge/X-@zhanghedev-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/zhanghe"><img alt="X" src="https://img.shields.io/badge/X-@zhanghe-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/zhanghe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Henry%20Zhang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -85,7 +85,7 @@ hello@zhanghe.dev:~$ connect --work
   ·
   <a href="https://zhanghe.dev/posts">Blog</a>
   ·
-  <a href="https://twitter.com/zhanghedev">X</a>
+  <a href="https://x.com/zhanghe">X</a>
   ·
   <a href="https://www.linkedin.com/in/zhanghe/">LinkedIn</a>
 </p>
