@@ -1,12 +1,12 @@
 <h1 align="center">Henry Zhang</h1>
 
 <p align="center">
-  <strong>AI tool builder · independent developer · edge-first engineer</strong>
+  <strong>AI tool builder · independent developer</strong>
 </p>
 
 <p align="center">
-  I ship practical AI tools for real workflows — browser, creator, and developer surfaces —
-  on Cloudflare-native stacks.
+  I design and ship practical AI tools for real workflows — browser extensions,
+  developer utilities, and creator tools — with React, TypeScript, and Cloudflare.
 </p>
 
 <p align="center">
@@ -19,51 +19,55 @@
 
 ## What I Build
 
-I turn narrow, repeated workflow friction into small, polished products — close to the page, editor, media file, or repository people already use.
+A narrow, repeated friction point becomes a small product, close to the page, the diff, or the file already on the machine.
 
-| Lane                | What I ship                                    | Instinct                                             |
-| ------------------- | ---------------------------------------------- | ---------------------------------------------------- |
-| Browser AI          | Translation, reading, page-side assistance     | Keep context intact; privacy first                   |
-| Creator tools       | Local video, cover, and lyric workflows        | Prefer browser-side processing over uploads          |
-| Developer utilities | Git, commit, and AI workflow helpers           | Make routine engineering cleaner and faster          |
-| Edge apps           | React / TypeScript on Cloudflare               | Keep infra boring, fast, and understandable          |
+| Lane                | What I ship                                      | Instinct                                      |
+| ------------------- | ------------------------------------------------ | --------------------------------------------- |
+| Browser AI          | On-device translation and page-side assistance   | Keep the reading context; prefer local models |
+| Creator tools       | Local video, covers, lyrics, and photo conversion | Keep the file in the browser                 |
+| Developer utilities | Commit messages, a JS runtime, and agent channels | Make routine engineering more direct          |
+| Edge apps           | React and TypeScript on Cloudflare               | Workers, D1, R2 — small enough to debug       |
 
 ```ts
 const henry = {
-  role: 'AI Tool Builder',
+  position: 'AI Tool Builder',
   base: 'zhanghe.dev',
-  builds: ['browser AI', 'creator tools', 'dev utilities', 'edge apps'],
-  shipsWith: ['React', 'TypeScript', 'Rust', 'Cloudflare'],
-  openSource: ['beejs', 'zstack'],
-  caresAbout: ['privacy', 'performance', 'solo leverage'],
-  defaultMode: 'ship small tools that solve real workflow problems',
+  builds: ['browser AI', 'creator tools', 'developer utilities'],
+  stack: ['React', 'TypeScript', 'Rust', 'Cloudflare Workers', 'D1', 'R2'],
+  openSource: ['amberjs'],
+  filter: 'real workflow problems',
+  ship: true,
 } as const;
 ```
 
 ## Open Source
 
-**[Beejs](https://github.com/zh30/beejs)** — fail-closed JS/TS runtime (Rust + V8). Fast cold starts, native TypeScript, permission sandbox for scripting, agents, and edge-like workloads. → [bee.zhanghe.dev](https://bee.zhanghe.dev)
-
-**[zstack](https://github.com/zh30/zstack)** — agent skills for indie builders: market signal → real users → landing smoke → PRD → SEO. Teaches coding agents product judgment, not only code. Works with Claude Code, Codex, and Grok.
+**[Amberjs](https://github.com/zh30/amberjs)** — a JavaScript and TypeScript runtime in Rust and V8. One `amber` binary runs scripts, Jest-style tests, MCP tools, and in-process `amber:ai`, with an opt-in capability sandbox and oxc type-stripping. Node Conformance 5.0 scores 55/55 fixtures; coverage is per-API, and the runtime is not a Node.js clone. MIT. → [amberjs.com](https://amberjs.com)
 
 ## Product Lab
 
-Highlights below. Full index: [zhanghe.dev/products](https://zhanghe.dev/products).
+The homepage features four. The full index of 14 is at [zhanghe.dev/products](https://zhanghe.dev/products).
 
-| Product                                                                 | Job to be done                                         | Built around                                  |
-| ----------------------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------- |
-| [Native Translate](https://zhanghe.dev/products/native-translate)       | Translate the web without breaking reading context     | Chrome built-in AI, local-first, open source  |
-| [MangoFlow](https://zhanghe.dev/products/mangoflow)                     | Keep AI beside the page you are researching            | Browser sidebar, multi-model chat             |
-| [Git Commit Analyzer](https://zhanghe.dev/products/git-commit-analyzer) | Turn messy staged diffs into clearer commit messages   | Local inference, Git workflow, privacy        |
-| [Video Clipper](https://zhanghe.dev/products/video-clipper)             | Cut and convert video locally — no source uploads      | FFmpeg.wasm, browser media processing         |
-| [Xiaomaolv](https://zhanghe.dev/products/xiaomaolv)                     | Route AI traffic through a practical gateway           | Rust, streaming, provider abstraction         |
+| Product                                                                 | Job to be done                                      | Built around                                |
+| ----------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------- |
+| [Amberjs](https://zhanghe.dev/products/amberjs)                         | Explore a JavaScript runtime from the V8 boundary   | Rust + V8, one binary, opt-in sandbox       |
+| [Native Translate](https://zhanghe.dev/products/native-translate)       | Translate the web without breaking reading context  | Chrome Translator and Language Detector, on-device |
+| [Git Commit Analyzer](https://zhanghe.dev/products/git-commit-analyzer) | Turn a staged diff into a Conventional Commit       | Local llama.cpp and GGUF models             |
+| [Video Clipper](https://zhanghe.dev/products/video-clipper)             | Turn long videos into short clips without uploading | FFmpeg.wasm, in the browser                 |
+
+### Also in the lab
+
+- **Browser AI** — [MangoFlow](https://zhanghe.dev/products/mangoflow) keeps a multi-model chat beside the page. [Translate](https://zhanghe.dev/products/translate) runs on-device, with Hy-MT models delivered through Cloudflare.
+- **AI infrastructure** — [Xiaomaolv](https://zhanghe.dev/products/xiaomaolv) is a self-hosted Rust Telegram agent: MiniMax or an OpenAI-compatible provider, MCP tools, and SQLite memory. [Binance Square Post MCP](https://zhanghe.dev/products/binance-square-post) is a hosted remote MCP so Grok, ChatGPT, and Gemini can publish without self-hosting.
+- **Creator and media** — [Cover Moment](https://zhanghe.dev/products/cover-moment) for local social covers, [Suno Lyric Downloader](https://zhanghe.dev/products/suno-lyric-downloader) for LRC and SRT, [HEIC to JPG](https://zhanghe.dev/products/heic-to-jpg) and [WebP Converter](https://zhanghe.dev/products/webp-converter) for in-browser photo conversion, and [Unbg](https://zhanghe.dev/products/background-remover) for on-device cutout or a cloud fal BiRefNet API that does not store files by default.
+- **Creative** — [Alchemy](https://alchemy.host), a creation system for getting from an idea to an output.
 
 ## Operating Principles
 
-- **AI with a reason** — remove a real step; do not decorate the UI.
-- **Privacy by default** — local inference and no-upload flows when the domain allows it.
-- **Edge-native, small surface** — Cloudflare-first; a one-person product should stay easy to ship and debug.
-- **Judgment before code; foundations when the stack is missing** — validate demand first; build the layer yourself when tools leave a real gap.
+- **Workflow first** — start from a step people already repeat: context switching, uploading, or manual cleanup.
+- **AI with a reason** — translation, commit writing, page-side help, and routing. The model has to remove work.
+- **Privacy and speed** — local processing and a clear data boundary whenever the product allows it.
+- **Small tools, clear constraints** — one friction point, a public page, and a loop for the next iteration.
 
 ## GitHub Signal
 
@@ -73,7 +77,7 @@ Highlights below. Full index: [zhanghe.dev/products](https://zhanghe.dev/product
 
 ```txt
 hello@zhanghe.dev:~$ connect --work
-[OK] portfolio loaded | product lab online | notes in progress
+[OK] portfolio loaded | product lab online | notes shipping
 ```
 
 <p align="center">
