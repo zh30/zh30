@@ -26,13 +26,14 @@ A narrow, repeated friction point becomes a small product, close to the page, th
 | Browser AI          | On-device translation and page-side assistance   | Keep the reading context; prefer local models |
 | Creator tools       | Local video, covers, lyrics, and photo conversion | Keep the file in the browser                 |
 | Developer utilities | Commit messages, a JS runtime, and agent channels | Make routine engineering more direct          |
+| Scheduling          | Async requests dragged onto the week             | Share busy and free; keep the calendar private |
 | Edge apps           | React and TypeScript on Cloudflare               | Workers, D1, R2 — small enough to debug       |
 
 ```ts
 const henry = {
   position: 'AI Tool Builder',
   base: 'zhanghe.dev',
-  builds: ['browser AI', 'creator tools', 'developer utilities'],
+  builds: ['browser AI', 'creator tools', 'developer utilities', 'scheduling'],
   stack: ['React', 'TypeScript', 'Rust', 'Cloudflare Workers', 'D1', 'R2'],
   openSource: ['amberjs'],
   filter: 'real workflow problems',
@@ -57,6 +58,7 @@ The homepage features four. The full index of 14 is at [zhanghe.dev/products](ht
 
 ### Also in the lab
 
+- **Scheduling** — [FocusCal](https://focuscal.app/) is an async scheduling page: share one link, take task requests in a private inbox, and drag them onto the week. Guests see busy and free blocks only.
 - **Browser AI** — [MangoFlow](https://zhanghe.dev/products/mangoflow) keeps a multi-model chat beside the page. [Translate](https://zhanghe.dev/products/translate) runs on-device, with Hy-MT models delivered through Cloudflare.
 - **AI infrastructure** — [Xiaomaolv](https://zhanghe.dev/products/xiaomaolv) is a self-hosted Rust Telegram agent: MiniMax or an OpenAI-compatible provider, MCP tools, and SQLite memory. [Binance Square Post MCP](https://zhanghe.dev/products/binance-square-post) is a hosted remote MCP so Grok, ChatGPT, and Gemini can publish without self-hosting.
 - **Creator and media** — [Cover Moment](https://zhanghe.dev/products/cover-moment) for local social covers, [Suno Lyric Downloader](https://zhanghe.dev/products/suno-lyric-downloader) for LRC and SRT, [HEIC to JPG](https://zhanghe.dev/products/heic-to-jpg) and [WebP Converter](https://zhanghe.dev/products/webp-converter) for in-browser photo conversion, and [Unbg](https://zhanghe.dev/products/background-remover) for on-device cutout or a cloud fal BiRefNet API that does not store files by default.
