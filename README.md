@@ -47,7 +47,7 @@ const henry = {
 
 ## Product Lab
 
-The homepage features four. The full index of 14 is at [zhanghe.dev/products](https://zhanghe.dev/products).
+The homepage features four. The full index of 15 is at [zhanghe.dev/products](https://zhanghe.dev/products).
 
 | Product                                                                 | Job to be done                                      | Built around                                |
 | ----------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------- |
@@ -58,7 +58,7 @@ The homepage features four. The full index of 14 is at [zhanghe.dev/products](ht
 
 ### Also in the lab
 
-- **Scheduling** — [FocusCal](https://focuscal.app/) is an async scheduling page: share one link, take task requests in a private inbox, and drag them onto the week. Guests see busy and free blocks only.
+- **Scheduling** — [FocusCal](https://zhanghe.dev/products/focuscal) takes time requests without giving up the calendar. Requests land in a private inbox at [focuscal.app](https://focuscal.app/), then get dragged into real time blocks. Guests see busy and free only.
 - **Browser AI** — [MangoFlow](https://zhanghe.dev/products/mangoflow) keeps a multi-model chat beside the page. [Translate](https://zhanghe.dev/products/translate) runs on-device, with Hy-MT models delivered through Cloudflare.
 - **AI infrastructure** — [Xiaomaolv](https://zhanghe.dev/products/xiaomaolv) is a self-hosted Rust Telegram agent: MiniMax or an OpenAI-compatible provider, MCP tools, and SQLite memory. [Binance Square Post MCP](https://zhanghe.dev/products/binance-square-post) is a hosted remote MCP so Grok, ChatGPT, and Gemini can publish without self-hosting.
 - **Creator and media** — [Cover Moment](https://zhanghe.dev/products/cover-moment) for local social covers, [Suno Lyric Downloader](https://zhanghe.dev/products/suno-lyric-downloader) for LRC and SRT, [HEIC to JPG](https://zhanghe.dev/products/heic-to-jpg) and [WebP Converter](https://zhanghe.dev/products/webp-converter) for in-browser photo conversion, and [Unbg](https://zhanghe.dev/products/background-remover) for on-device cutout or a cloud fal BiRefNet API that does not store files by default.
